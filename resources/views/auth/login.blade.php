@@ -85,7 +85,7 @@
 
                 <p class="text-center mt-5 lead">
                     Developed By
-                    <a href="https://fahimanzam.netlify.app" class="font-weight-bold text-primary">Topdocode & FAD</a>
+                    <a href="https://topdocode.com" class="font-weight-bold text-primary">Topdocode & FAD</a>
                 </p>
             </div>
         </div>
